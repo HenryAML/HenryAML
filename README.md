@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HenryAML
 - 👀 I’m interested in technology, philosophy and astrophysics
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate with my classmates for future projects
+- 💞️ I’m looking forward to collaborate with fellow coders for future projects
 - 📫 How to reach me: henryaml.mm@gmail.com
